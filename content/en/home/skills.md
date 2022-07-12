@@ -20,8 +20,8 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-    - description: 90%
-    icon: icons8-c++
+  - description: 90%
+    icon: icons8/icons8-c++
     icon_pack: custom
     name: R
   - description: 100%
