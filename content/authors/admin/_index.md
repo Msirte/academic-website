@@ -4,9 +4,7 @@ role: Ph.D candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Imaging; Electrical Engineering; Artificial Intelligence;Bike
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yue Zhang is a Ph.D candidate with electrical engineering major in Institute of Semiconductors, Chinese Academy of Sciences & University of Chinese Academy of Sciences. His research interests include algorithm enhanced 3D imaging, underwater imaging and computer vision. He is a research assistant in Optoelectronic System Laboratory, which focus on active night vision, underwater imaging and fluorescence lifetime imaging microscopy based on gate viewing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
