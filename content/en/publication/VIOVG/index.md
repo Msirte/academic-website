@@ -15,7 +15,7 @@ abstract: A smart vector-inspired optical vision guiding (VIOVG) method for
   experiment at ∼10 m. It has great potential for AUV docking and formation,
   especially for small AUVs.
 slides: example
-url_pdf: "content/en/publication/Smart vector-inspired optical vision guiding method.pdf"
+url_pdf: "uploads/Smart vector-inspired optical vision guiding method.pdf"
 publication_types:
   - "2"
 authors:
