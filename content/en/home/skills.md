@@ -17,24 +17,24 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Skilled, 5 years
-    icon: python
-    icon_pack: fab
+    icon: icons8/icons8-python
+    icon_pack: custom
     name: Python
   - description: Good, 5 years
     icon: icons8/icons8-c++
     icon_pack: custom
     name: C++
   - description: Beginner, 1 year
-    icon: microchip
-    icon_pack: fas
+    icon: others/microchip-svgrepo-com
+    icon_pack: custom
     name: Hardware development
   - description: Skilled, 3 years
     icon: icons8/icons8-opencv
     icon_pack: custom
     name: OpenCV
   - description: Good, 5 years
-    icon: linux
-    icon_pack: fab
+    icon: others/linux
+    icon_pack: custom
     name: Linux
   - description: Good, 2 years
     icon: others/pytorch-icon
@@ -49,8 +49,8 @@ feature:
     icon_pack: custom
     name: Zemax
   - description: Beginner, 1 year
-    icon: browser
-    icon_pack: fab
+    icon: others/website-svgrepo-com
+    icon_pack: custom
     name: Web development
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
