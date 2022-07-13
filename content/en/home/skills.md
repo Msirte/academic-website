@@ -16,22 +16,42 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: SKILLED, 5 years
+  - description: Skilled, 5 years
     icon: python
     icon_pack: fab
     name: Python
-  - description: GOOD, 5 years
+  - description: Good, 5 years
     icon: icons8/icons8-c++
     icon_pack: custom
     name: C++
-  - description: 100%
-    icon: chart-line
+  - description: Beginner, 1 year
+    icon: microchip
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: Hardware development
+  - description: Skilled, 3 years
+    icon: icons8/icons8-opencv
+    icon_pack: custom
+    name: OpenCV
+  - description: Good, 5 years
+    icon: linux
+    icon_pack: fab
+    name: Linux
+  - description: Good, 2 years
+    icon: others/pytorch-icon
+    icon_pack: custom
+    name: PyTorch
+  - description: Skilled, 5 years
+    icon: icons8/icons8-matlab
+    icon_pack: custom
+    name: MATLAB
+  - description: Beginner, 1 year
+    icon: others/zemax-logo-vector
+    icon_pack: custom
+    name: Zemax
+  - description: Beginner, 1 year
+    icon: browser
+    icon_pack: fab
+    name: Web development
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
