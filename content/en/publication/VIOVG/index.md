@@ -30,7 +30,7 @@ author_notes: []
 publication: Optics Letters
 summary: ""
 url_dataset: ""
-url_project: "../../project/VIOVG"
+url_project: "content/en/project/VIOVG"
 publication_short: Opt. Lett.
 url_source: ""
 url_video: ""
