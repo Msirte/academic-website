@@ -1,8 +1,7 @@
 ---
 title: Yue Zhang
 role: Ph.D candidate
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include algorithm enhanced 3D imaging, underwater imaging and computer vision
 interests:
   - Imaging
   - Electrical Engineering
