@@ -4,7 +4,10 @@ role: Ph.D candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Imaging; Electrical Engineering; Artificial Intelligence;Bike
+  - Imaging
+  - Electrical Engineering
+  - Artificial Intelligence
+  - Bike
 social:
 #   - icon: envelope
 #     icon_pack: fas
