@@ -22,10 +22,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: zhangyue.phd@outlook.com
+  email: zhangyue.phd#outlook.com
   phone: +86 16619961093
   address:
     street: A35 Qinghua East Road, Haidian District
