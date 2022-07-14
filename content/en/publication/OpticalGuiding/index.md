@@ -3,7 +3,7 @@ abstract: 本发明公开了一种水下矢量光视觉导引方法及装置，�
 # slides: example
 # url_pdf: "uploads/Monte-Carlo simulation for range intensity profile of underwater range gated imaging.pdf"
 publication_types:
-  - "7"
+  - "8"
 authors:
   - 王新伟
   - 王少蒙

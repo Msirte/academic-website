@@ -3,7 +3,7 @@ abstract: 本公开提供一种水下光学整流罩，包括：整流罩底座�
 # slides: example
 # url_pdf: "uploads/Monte-Carlo simulation for range intensity profile of underwater range gated imaging.pdf"
 publication_types:
-  - "7"
+  - "8"
 authors:
   - 张岳
   - 王新伟
