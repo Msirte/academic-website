@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 联系方式
 subtitle:
 
 content:
@@ -16,41 +16,41 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#   form:
+#     provider: netlify
+#     formspree:
+#       id:
+#     netlify:
+#       # Enable CAPTCHA challenge to reduce spam?
+#       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhangyue.phd#outlook.com
+  phone: +86 16619961093
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 海淀区清华东路甲35号中国科学院半导体研究所
+    city: 北京市
+    region: 北京
+    postcode: '100083'
+    country: 中国
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    latitude: '40.00284'
+    longitude: '116.33936'
+  directions: 3号楼315B
+#   office_hours:
+#     - 'Monday 10:00 to 13:00'
+#     - 'Wednesday 09:00 to 10:00'
+#   appointment_url: 'https://calendly.com'
+#   contact_links:
+#     - icon: twitter
+#       icon_pack: fab
+#       name: DM Me
+#       link: 'https://twitter.com/Twitter'
+#     - icon: video
+#       icon_pack: fas
+#       name: Zoom Me
+#       link: 'https://zoom.com'
 
 design:
   columns: '2'
