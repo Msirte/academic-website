@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Yue Zhang
   - Xinwei Wang
-  - and Yan Zhou
+  - Yan Zhou
 author_notes: []
 publication: Proceeding of SPIE
 summary: ""
