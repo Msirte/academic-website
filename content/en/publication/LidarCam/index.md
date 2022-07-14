@@ -1,6 +1,6 @@
 ---
 abstract: Marine macro life in-situ observation and measurement is of great significance to research and evaluate marine ecological environment, marine biological resources and seabed mineral resources. Traditional underwater cameras for in-situ observation of marine macro life have problems with low-contrast target (LOST) caused by target radiation characteristics, water light scattering, and loss of distance information in 2D images. Light ranging and imaging (LiRAI) technique was proposed, which could take into account and surpass the traditional lidar and camera composite technical solution, using a single system to simultaneously obtain high-contrast 2D intensity images and high-resolution 3D images with mega-pixels, and pixels in 2D images correspond to voxels in 3D images one by one. “Fengyan” systems were established based on LiRAI for marine macro life in-situ observation and measurement. The optical sampling volume was adjustable, the range resolution was better than 1 cm, and the number of pixels was 1 360×1 024. Since 2018, four voyages of sea trials had been conducted in the South China Sea, and images of marine life and sea floor had been obtained successfully, and the maximum working depth of “Fengyan” was 3 291 m.
-slides: example
+# slides: example
 # url_pdf: "uploads/Monte-Carlo simulation for range intensity profile of underwater range gated imaging.pdf"
 publication_types:
   - "2"

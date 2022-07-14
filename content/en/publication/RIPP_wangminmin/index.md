@@ -1,6 +1,6 @@
 ---
 abstract: This paper is concerned with the mitigation of backscatter effects in a single gated image. A range-intensity-profile prior dehazing method is proposed to estimate scene depth and finely remove water backscatter at different depths for underwater range-gated imaging. It is based on the prior that the target intensity is distributed with range intensity profiles in gated images. The depth transmission and depth-noise map are then calculated from the scene depth. A high-quality image is restored by subtracting the depth-noise map and dividing the depth transmission. The simulation and experimental results show that the proposed method works well even if a portion of the estimated depth may be smaller than its real value, and the peak signal-to-noise ratio of dehazing images gets up to a doubled increase.
-slides: example
+# slides: example
 # url_pdf: "uploads/Monte-Carlo simulation for range intensity profile of underwater range gated imaging.pdf"
 publication_types:
   - "2"
