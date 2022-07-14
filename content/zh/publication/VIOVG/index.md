@@ -14,8 +14,8 @@ abstract: A smart vector-inspired optical vision guiding (VIOVG) method for
   positioning. A relative distance error of 3.35% is achieved in a positioning
   experiment at ∼10 m. It has great potential for AUV docking and formation,
   especially for small AUVs.
-slides: example
-url_pdf: ""
+# slides: example
+url_pdf: "uploads/Smart vector-inspired optical vision guiding method.pdf"
 publication_types:
   - "2"
 authors:
@@ -25,12 +25,12 @@ authors:
   - Shaomeng Wang
   - Yuqing Yang
   - Liang Sun
-  - and Yan Zhou
+  - Yan Zhou
 author_notes: []
 publication: Optics Letters
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "content/en/project/VIOVG"
 publication_short: Opt. Lett.
 url_source: ""
 url_video: ""
@@ -43,12 +43,12 @@ tags: []
 projects:
   - Smart underwater vector-inspired optical vision guiding method
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2022-05-31T17:45:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022-05-31T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
