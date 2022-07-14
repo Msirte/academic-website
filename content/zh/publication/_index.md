@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 发表成果
 cms_exclude: true
 
 # View.
