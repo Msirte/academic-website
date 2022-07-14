@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/Msirte
 organizations:
-  - name: 中国科学院半导体研究所，中国科学院大学
+  - name: 中国科学院半导体研究所
     url: "http://www.semi.ac.cn/"
 education:
   courses:

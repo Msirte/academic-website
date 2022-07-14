@@ -99,12 +99,6 @@ item:
     title: Merit Student of Nankai University
     url: ''
   - date_end: ''
-    date_start: '2016-06-30'
-    description: ''
-    organization: Nankai University
-    title: Nankai University Comprehensive Scholarship (First Class)
-    url: ''
-  - date_end: ''
     date_start: '2014-09-30'
     description: ''
     organization: Nankai University
