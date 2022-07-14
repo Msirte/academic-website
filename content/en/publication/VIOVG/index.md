@@ -25,7 +25,7 @@ authors:
   - Shaomeng Wang
   - Yuqing Yang
   - Liang Sun
-  - and Yan Zhou
+  - Yan Zhou
 author_notes: []
 publication: Optics Letters
 summary: ""
@@ -46,7 +46,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2022-07-13T17:45:00Z
+date: 2022-05-31T17:45:00Z
 url_slides: ""
 publishDate: 2022-05-31T00:00:00Z
 url_poster: ""
