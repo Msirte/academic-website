@@ -21,7 +21,7 @@ url_video: ""
 title: 水下矢量光视觉导引方法及装置
 subtitle: ""
 # doi: https://doi.org/10.1117/12.2626771
-featured: true
+featured: false
 tags: []
 projects:
   - Smart underwater vector-inspired optical vision guiding method

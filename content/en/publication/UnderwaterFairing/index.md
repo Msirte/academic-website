@@ -20,7 +20,7 @@ url_video: ""
 title: 一种水下光学整流罩
 subtitle: ""
 # doi: https://doi.org/10.1117/12.2626771
-featured: true
+featured: false
 tags: []
 projects:
   - Underwater Low-resistance optical fairing
