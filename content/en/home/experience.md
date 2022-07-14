@@ -53,8 +53,8 @@ experience:
     date_start: '2016-07-01'
     date_end: '2016-09-15'
     description: |2-
-        Help to build the helium recovery system for scanning tunneling microscope (STM) research.\
-        Design and build the circuit board of:\
+        Help to build the helium recovery system for scanning tunneling microscope (STM).\
+        Design and build the circuit board of:
         1. Automatically helium compression system
         2. Pressure protection system of helium gas bag
         3. Vacuum protection system of STM chamber.
