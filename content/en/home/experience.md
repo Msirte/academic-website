@@ -33,7 +33,8 @@ experience:
     date_start: '2016-09-01'
     date_end: '2017-08-31'
     description: |2-
-        Responsibilities include: propaganda of Nankai University Physicist Tournament, In charge of WeChat public account of club.
+        Responsibilities include: propaganda of Nankai University Physicist Tournament.
+        In charge of WeChat public account of club.
 
   - title: Research Assistant
     company: Nankai University
@@ -52,8 +53,8 @@ experience:
     date_start: '2016-07-01'
     date_end: '2016-09-15'
     description: |2-
-        Help to build the helium recovery system for scanning tunneling microscope (STM) research.
-        Design and build the circuit board of:
+        Help to build the helium recovery system for scanning tunneling microscope (STM) research.\\
+        Design and build the circuit board of:\\
         1. automatically helium compression system
         2. pressure protection system of helium gas bag
         3. vacuum protection system of STM chamber.
