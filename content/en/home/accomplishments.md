@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -30,7 +30,97 @@ item:
     date_start: '2019-06-30'
     description: ''
     organization: School of Optoelectronics, University of Chinese Academy of Sciences
-    title: First Prize of the First SeeLight Optical System Simulation Competition
+    title: First Prize of the First *SeeLight* Optical System Simulation Competition
+    url: ''
+  - date_end: ''
+    date_start: '2018-06-30'
+    description: ''
+    organization: Nankai University
+    title: Outstanding Graduate of Nankai University
+    url: ''
+  - date_end: ''
+    date_start: '2015-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University Scholarship (Second Class)
+    url: ''
+  - date_end: ''
+    date_start: '2016-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University Scholarship (First Class)
+    url: ''
+  - date_end: ''
+    date_start: '2017-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University *Boling* Scholarship
+    url: ''
+  - date_end: ''
+    date_start: '2017-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University *Gongneng* Scholarship
+    url: ''
+  - date_end: ''
+    date_start: '2017-04-30'
+    description: ''
+    organization: Nankai University
+    title: The Third Prize of Outstanding Undergraduate Research Projects of Nankai University
+    url: ''
+  - date_end: ''
+    date_start: '2017-05-31'
+    description: ''
+    organization: Dalian Institute of Chemical Physics, Chinese Academy of Sciences
+    title: Outstanding Scholarship of Dalian Institute of Chemical Physics, Chinese Academy of Sciences
+    url: ''
+  - date_end: ''
+    date_start: '2016-04-30'
+    description: ''
+    organization:
+    title: 12th place in the 8th International Physicists Tournament (Team)
+    url: ''
+  - date_end: ''
+    date_start: '2015-04-30'
+    description: ''
+    organization: 
+    title: Second Prize in University Students Mathematics Competition (Science and Engineering) of Tianjin
+    url: ''
+  - date_end: ''
+    date_start: '2015-06-30'
+    description: ''
+    organization: Nankai University
+    title: Merit Student of Nankai University
+    url: ''
+  - date_end: ''
+    date_start: '2018-06-30'
+    description: ''
+    organization: Nankai University
+    title: Merit Student of Nankai University
+    url: ''
+  - date_end: ''
+    date_start: '2016-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University Comprehensive Scholarship (First Class)
+    url: ''
+  - date_end: ''
+    date_start: '2014-09-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University Boling Class Freshman Scholarship
+    url: ''
+  - date_end: ''
+    date_start: '2015-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University *Boling* Scholarship
+    url: ''
+  - date_end: ''
+    date_start: '2016-06-30'
+    description: ''
+    organization: Nankai University
+    title: Nankai University *Boling* Scholarship
     url: ''
 #   - certificate_url: https://www.coursera.org
 #     date_end: ''
