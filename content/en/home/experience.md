@@ -33,7 +33,7 @@ experience:
     date_start: '2016-09-01'
     date_end: '2017-08-31'
     description: |2-
-        Responsibilities include: propaganda of Nankai University Physicist Tournament.
+        Responsibilities include: propaganda of Nankai University Physicist Tournament.\
         In charge of WeChat public account of club.
 
   - title: Research Assistant
@@ -43,7 +43,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2018-06-30'
     description: |2-
-        Help the calculation of physics properties of two-dimensional materials.
+        Help the calculation of physics properties of two-dimensional materials.\
         Help to maintain the high performance computing cluster.
 
   - title: Research Intern
@@ -53,11 +53,11 @@ experience:
     date_start: '2016-07-01'
     date_end: '2016-09-15'
     description: |2-
-        Help to build the helium recovery system for scanning tunneling microscope (STM) research.\\
-        Design and build the circuit board of:\\
-        1. automatically helium compression system
-        2. pressure protection system of helium gas bag
-        3. vacuum protection system of STM chamber.
+        Help to build the helium recovery system for scanning tunneling microscope (STM) research.\
+        Design and build the circuit board of:\
+        1. Automatically helium compression system
+        2. Pressure protection system of helium gas bag
+        3. Vacuum protection system of STM chamber.
 
 
 #   - title: Professor of Semiconductor Physics
