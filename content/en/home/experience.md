@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Head of Propaganda Department
+  - title: Head of Publicity Department
     company: Physics Sibian club of Nankai University
     company_url: ''
     company_logo: 
@@ -33,7 +33,7 @@ experience:
     date_start: '2016-09-01'
     date_end: '2017-08-31'
     description: |2-
-        Responsibilities include: propaganda of Nankai University Physicist Tournament.\
+        Responsibilities include: publicity of Nankai University Physicist Tournament.\
         In charge of WeChat public account of club.
 
   - title: Research Assistant
