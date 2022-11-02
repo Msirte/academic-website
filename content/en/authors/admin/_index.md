@@ -40,4 +40,4 @@ highlight_name: true
 ---
 Yue Zhang is a Ph.D candidate with electrical engineering major in Institute of Semiconductors, Chinese Academy of Sciences & University of Chinese Academy of Sciences. His research interests include algorithm enhanced 3D imaging, underwater imaging and computer vision. He is a research assistant in Optoelectronic System Laboratory, which focus on active night vision, underwater imaging and fluorescence lifetime imaging microscopy based on gate viewing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/张岳_23届博士_中国科学院大学.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Yue_Zhang.pdf" "newtab" >}}resumé{{< /staticref >}}.
