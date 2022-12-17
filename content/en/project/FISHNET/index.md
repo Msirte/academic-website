@@ -3,6 +3,7 @@ title: Mask-guided deep learning fishing net detection and recognition based on 
 summary: Mask-guided deep learning fishing net detection and recognition based on underwater range gated laser imaging.
 tags:
   - Optics
+  - Image Processing
 date: '2022-11-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
