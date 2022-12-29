@@ -63,7 +63,7 @@ The workflow of pose acquisition algorithm is shown in Fig.3. The image proceedi
 <figure>
 <video src="optical-guiding.mp4" width="800px" height="600px" controls="controls"></video>
   <figcaption>
-      <h10>Video. 1. Image proceeding.</h10>
+      <h10>Video. 1. Image processing.</h10>
   </figcaption>
 </figure>
 

@@ -1,6 +1,6 @@
 ---
 title: Underwater low-resistance optical fairing
-summary: Underwater color image enhancement method.
+summary: We propose a novel underwater low-resistance optical fairing for AUVs. The shape of the optical fairing adopts a streamlined design, which can reduce water resistance, and at the same time enable the optical camera to clearly image through the fairing, without the need to specially design the focal length, camera installation position, etc.
 tags:
   - Optics
 date: '2022-11-01T00:00:00Z'
