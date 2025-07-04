@@ -14,11 +14,11 @@ authors:
   - Yan Zhou
   - Yuliang Liu
 author_notes: []
-publication: Optics Express (under review)
+publication: Optics and Laser Technology
 summary: ""
 url_dataset: ""
 url_project: "content/en/project/FISHNET"
-publication_short: Opt. Express
+publication_short: Optics & Laser Technology
 url_source: ""
 url_video: ""
 title: Mask-guided deep learning fishing net detection and recognition based on underwater range gated laser imaging
@@ -34,7 +34,7 @@ image:
   preview_only: true
 date: 2022-12-19T17:45:00Z
 url_slides: ""
-publishDate: 2022-12-19T00:00:00Z
+publishDate: 2024-04-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
