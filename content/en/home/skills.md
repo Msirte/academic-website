@@ -16,31 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Skilled, 5 years
+  - description: Skilled, 7 years
     icon: icons8/icons8-python
     icon_pack: custom
     name: Python
-  - description: Good, 5 years
+  - description: Good, 7 years
     icon: icons8/icons8-c++
     icon_pack: custom
     name: C++
-  - description: Beginner, 1 year
+  - description: Beginner, 2 years
     icon: others/microchip-svgrepo-com
     icon_pack: custom
     name: Hardware development
-  - description: Skilled, 3 years
+  - description: Skilled, 5 years
     icon: icons8/icons8-opencv
     icon_pack: custom
     name: OpenCV
-  - description: Good, 5 years
+  - description: Good, 7 years
     icon: others/linux
     icon_pack: custom
     name: Linux
-  - description: Good, 2 years
+  - description: Good, 4 years
     icon: others/pytorch-icon
     icon_pack: custom
     name: PyTorch
-  - description: Skilled, 5 years
+  - description: Skilled, 7 years
     icon: icons8/icons8-matlab
     icon_pack: custom
     name: MATLAB

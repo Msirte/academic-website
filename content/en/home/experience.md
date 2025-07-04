@@ -25,16 +25,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctal Fellow
+    company: Institute of semiconductors, Chinese Academy of Sciences
+    company_url: ''
+    company_logo: 
+    location: Haidian, Beijing, China
+    date_start: '2023-09-01'
+    date_end: '2025-09-30'
+    description: |2-
+        Physics Thought & Dialogue Club is founded by a group of undergraduate physics students. It is an academic community dedicated to critical thinking, open discussion, and philosophical reflection in physics. Through seminars, debates, and collaborative exploration, the society encourages rigorous inquiry into both foundational and emerging topics in physical science.
+        My responsibilities included managing publicity for the Nankai University Physicist Tournament and overseeing the club’s official WeChat public account.
+
   - title: Head of Publicity Department
-    company: Physics Sibian club of Nankai University
+    company: Physics Thought & Dialogue Club at Nankai University
     company_url: ''
     company_logo: 
     location: Nankai University, Tianjin, China
     date_start: '2016-09-01'
     date_end: '2017-08-31'
     description: |2-
-        Responsibilities include: publicity of Nankai University Physicist Tournament.\
-        In charge of WeChat public account of club.
+        Physics Thought & Dialogue Club is founded by a group of undergraduate physics students. It is an academic community dedicated to critical thinking, open discussion, and philosophical reflection in physics. Through seminars, debates, and collaborative exploration, the society encourages rigorous inquiry into both foundational and emerging topics in physical science.
+        My responsibilities included managing publicity for the Nankai University Physicist Tournament and overseeing the club’s official WeChat public account.
 
   - title: Research Assistant
     company: Nankai University
