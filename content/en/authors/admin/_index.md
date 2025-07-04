@@ -7,6 +7,7 @@ interests:
   - Electrical Engineering
   - Artificial Intelligence
   - Bike
+  - Musical
 social:
 #   - icon: envelope
 #     icon_pack: fas

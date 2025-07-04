@@ -27,6 +27,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2025-03-30'
+    description: ''
+    organization: Institute of Semiconductors, Chinese Academy of Sciences
+    title: Outstanding Postdoctal Fellow
+    url: ''
+  - date_end: ''
     date_start: '2019-06-30'
     description: ''
     organization: School of Optoelectronics, University of Chinese Academy of Sciences
