@@ -33,8 +33,15 @@ experience:
     date_start: '2023-09-01'
     date_end: '2025-09-30'
     description: |2-
-        Physics Thought & Dialogue Club is founded by a group of undergraduate physics students. It is an academic community dedicated to critical thinking, open discussion, and philosophical reflection in physics. Through seminars, debates, and collaborative exploration, the society encourages rigorous inquiry into both foundational and emerging topics in physical science.
-        My responsibilities included managing publicity for the Nankai University Physicist Tournament and overseeing the club’s official WeChat public account.
+        Research Projects Involved:
+        * Adaptive underwater image processing based on inherent optical properties (IOPs)
+        * Range resolution analysis of laser gated light ranging and imaging (LiRAI)
+        * Computational laser-gated 3D imaging
+        * Multispectral computational imaging
+        * Long-range and wide field-of-view 3D optical perception for deep-sea environments
+        * Monte Carlo simulation of underwater light sources
+        * Optical image processing and algorithm development for deep-sea mineral exploration
+        * Image-grade LiDAR point cloud processing for vegetation monitoring
 
   - title: Head of Publicity Department
     company: Physics Thought & Dialogue Club at Nankai University
