@@ -25,7 +25,7 @@ content:
 #       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: zhangyue.phd#outlook.com
+  email: yuezhangcas#semi.ac.cn
   phone: +86 16619961093
   address:
     street: A35 Qinghua East Road, Haidian District
@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '40.00284'
     longitude: '116.33936'
-  directions: Office 315B at Building 3
+  directions: Office 319 at Building 3
 #   office_hours:
 #     - 'Monday 10:00 to 13:00'
 #     - 'Wednesday 09:00 to 10:00'
