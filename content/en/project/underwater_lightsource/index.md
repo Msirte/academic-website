@@ -2,7 +2,7 @@
 title: Underwater color image enhancement
 summary: Underwater color image enhancement method.
 tags:
-  - Image Processing
+  - Imaging
 date: '2022-11-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

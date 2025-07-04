@@ -97,7 +97,6 @@ All the work is carried out under the supervision of Prof. Xinwei Wang, at Insti
 Related paper:
 * Zhang, Y., Wang, X., Lei, P., Wang, S., Yang, Y., Sun, L., & Zhou, Y. (2022). Smart vector-inspired optical vision guiding method for autonomous underwater vehicle docking and formation. Optics Letters, 47(11), 2919.
 
-The code cannot be provided for the reason of confidentiality.
 ____________________________________________
 References:  
 1. D. R. Blidberg, in IEEE ICRA (2001), 4, p. 1.
