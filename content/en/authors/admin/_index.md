@@ -44,4 +44,4 @@ He has led and contributed to several projects, including Monte Carlo simulation
 
 Currently, his work involves 3D imaging for deep-sea mining, image-grade LiDAR data processing for vegetation monitoring, ultra-fast computational 3D imaging, and computational multispectral imaging. He is an assistant researcher in the Optoelectronic Systems Laboratory, where the team specializes in active night vision, underwater imaging, and fluorescence lifetime imaging microscopy using gated imaging techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/张岳_23届博士_中国科学院大学.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Yue_Zhang.pdf" "newtab" >}}resumé{{< /staticref >}}.

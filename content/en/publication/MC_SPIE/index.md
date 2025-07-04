@@ -12,7 +12,7 @@ author_notes: []
 publication: Proceeding of SPIE
 summary: ""
 url_dataset: ""
-url_project: "content/en/project/VIOVG"
+url_project: "content/en/project/MAISP"
 publication_short: Proc. of SPIE
 url_source: ""
 url_video: ""
@@ -22,7 +22,7 @@ doi: https://doi.org/10.1117/12.2626771
 featured: true
 tags: []
 projects:
-  - Monte-Carlo simulation for range intensity profile of underwater range gated imaging
+  - MAISP
 image:
   caption: ""
   focal_point: ""

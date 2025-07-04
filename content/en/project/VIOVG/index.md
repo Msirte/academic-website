@@ -40,7 +40,7 @@ url_video: ''
   </figcaption>
 </figure>
 
-We proposed a smart optical vision guiding method for AUV formation. Unlike the traditional optical guiding methods which use LED arrays, our method uses the vector-light guiding system consisting of four laser diodes mounted on AUV housing. Thanks to the scattering effect of water and the collimation of laser beam, laser diodes can go off bright and slim ray beams. The intersections of laser ray lines form wing-lights, providing markers for pose estimation algorithm. Wing-light can be easily extended beyond the mechanical dimensions of AUV, which improves the precision of pose calculation. We performed simulations and experiments, which show smart optical vision guiding method having high precision and practical for AUV formation, especially for small AUVs.
+We proposed a smart vector-inspired optical vision guiding (VIOVG) method for AUV docking and formation. Unlike the traditional optical vision guiding (OVG) methods which use LED arrays, our method uses the vector-light guiding system consisting of four laser diodes mounted on AUV housing. Thanks to the scattering effect of water and the collimation of laser beam, laser diodes can go off bright and slim ray beams. The intersections of laser ray lines form wing-lights, providing markers for pose estimation algorithm. Wing-light can be easily extended beyond the mechanical dimensions of AUV, which improves the precision of pose calculation. We performed simulations and experiments, which show VIOVG method having high precision and practical for AUV formation, especially for small AUVs.
 
 <figure>
  <img src="fig2.png" alt="a" width="600px" height="600px"/>
@@ -63,11 +63,11 @@ The workflow of pose acquisition algorithm is shown in Fig.3. The image proceedi
 <figure>
 <video src="optical-guiding.mp4" width="800px" height="600px" controls="controls"></video>
   <figcaption>
-      <h10>Video. 1. Image proceeding.</h10>
+      <h10>Video. 1. Image processing.</h10>
   </figcaption>
 </figure>
 
-We performed simulations on the precision of pose estimation under two situations: (1) AUV using vector-light guiding system, (2) AUV using LED lights directly mounted on the outer wall as markers. The simulation results [Fig. 4] show that at different relative yaw angles, pose estimation of AUV equipped with vector-light guiding system is more accurate compared to AUV mounted with LED array. 
+We performed simulations on the precision of pose estimation under two situations: (1) AUV using vector-light guiding system, (2) AUV using LED lights directly mounted on the outer wall as markers. The simulation results Fig. 4 show that at different relative yaw angles, pose estimation of AUV equipped with vector-light guiding system is more accurate compared to AUV mounted with LED array. 
 
 <figure>
  <img src="fig4.png" alt="a" width="600px" height="600px"/>
@@ -76,10 +76,26 @@ We performed simulations on the precision of pose estimation under two situation
   </figcaption>
 </figure>
 
-This is still an onging project and further experiments need to be performed. All the work is carried out under the supervision of Prof. Xinwei Wang, at Institute of Semiconductors, Chinese Academy of Sciences.
+Experimental prototype is build and as shown in Fig. 5, the underwater camera and vector light are placed on two tripods in a water pool to adjust their pose. Distance calibration wires are used to determine the distance between camera and vector light, providing the ground truth distance value for the positioning experiment. We performed position estimation at the distance of 9.804 m. The calculated distance R = 9.476 m, with a relative distance error of 3.35%. The experiment results show that the VIOVG system has good accuracy in the positioning task. We performed experiments at different distances from 6 m to 11 m and yaw angles of 0°, 30°, and 60°. The images of vector light are shown in Fig. 6, from which one can see the vector light pattern is clear at a distance within 10 m and at different yaw angles. The attenuation coefficient of the experimental water is 0.15 m<sup>-1</sup> measured by WetLabs AC-9 absorption and attenuation meter. Compared with the light spot detection used in traditional OVG methods, line detection can provide the sub-pixel location of wing-light points in VIOVG images, which can improve the precision of pose solution.
+
+<figure>
+ <img src="fig5.png" alt="a" width="600px" height="600px"/>
+  <figcaption>
+      <h10>Fig. 5. Experiment setup of the VIOVG system. The underwater camera and vector light are placed on tripods in a water pool. Distance calibration wires are used to determine the distance between the camera and the vector light.</h10>
+  </figcaption>
+</figure>
+
+<figure>
+ <img src="fig6.png" alt="a" width="600px" height="600px"/>
+  <figcaption>
+      <h10>Fig. 6. Wing-light patterns at different distances and yaw angles for the smart VIOVG system.</h10>
+  </figcaption>
+</figure>
+
+All the work is carried out under the supervision of Prof. Xinwei Wang, at Institute of Semiconductors, Chinese Academy of Sciences.
 
 Related paper:
-* Yue Zhang, Shaomeng Wang, Xinwei Wang, Pingshun Lei, Yuqing Yang, Yan Zhou, Smart optical vision guide for AUV formation，Optics Letters. (Under progress)
+* Zhang, Y., Wang, X., Lei, P., Wang, S., Yang, Y., Sun, L., & Zhou, Y. (2022). Smart vector-inspired optical vision guiding method for autonomous underwater vehicle docking and formation. Optics Letters, 47(11), 2919.
 
 The code cannot be provided for the reason of confidentiality.
 ____________________________________________

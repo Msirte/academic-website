@@ -77,13 +77,13 @@ item:
   - date_end: ''
     date_start: '2016-04-30'
     description: ''
-    organization:
+    organization: Paris, France
     title: 12th place in the 8th International Physicists Tournament (Team)
     url: ''
   - date_end: ''
     date_start: '2015-04-30'
     description: ''
-    organization: 
+    organization: Tianjin, China
     title: Second Prize in University Students Mathematics Competition (Science and Engineering) of Tianjin
     url: ''
   - date_end: ''
