@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
+<h8 style="text-align: justify;">
 This is an ongoing project. This page is just for showing the preliminary results and will be updated in the future.
 
 Color images are of great significance to underwater detailed survey and exploration. The underwater image is usually blurreed, with low signal-to-noise ratio and severe noise. The traditional underwater image enhancement algorithm can hardly improve image quality to a very high level. Although the image enhancement algorithm based on deep learning has achieved good results in the images in the air, it is difficult to work for underwater images for lack of underwater image datasets. Focusing on this problem, we developed novel underwater simulation method. As shown in Fig. 1, a dataset of simulated underwater images at different attenuation lengths (ALs) were built. Preliminary experiments are carried out and neural networks are designed for image enhancement, which has achieved good results on the open dataset, but still needs to be further improved (Fig. 2,3).

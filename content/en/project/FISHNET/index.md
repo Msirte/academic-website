@@ -30,10 +30,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+<h8 style="text-align: justify;">
 
 A mask-guided deep learning fishing net detection and recognition method based on underwater range gated laser imaging is proposed. Range gated laser imaging technology is used to obtain high quality underwater fishing net images with less water backscattering effect and background noise. A dual-phase training strategy including mask-guided feature extraction phase and classification finetune phase is proposed to avoid overfitting of training the neural network. The mask-guided feature extraction phase takes advantages of image segmentation training from synthetic dataset to get a better feature extraction performance. The highest overall accuracy of the proposed method reaches 95.49% in fishing net classification task under finetuned weight configuration. The proposed method can effectively help unmanned underwater vehicles and robots from entangling by fishing nets as well as retrieving derelict fishing nets for marine environment protection.
-
-<h8 style="text-align: justify;">
 
 <figure>
  <img src="fig1.png" alt="a" width="600px" height="600px"/>
@@ -50,8 +49,6 @@ In the classification finetune phase, the backbone of the classification network
 
 When the algorithm is deployed to the fishing net detection and recognition equipment, only the classification network is needed. The image segmentation network used in mask-guided feature extraction phase is only used for training. However, the mask-guided feature extraction phase is necessary for the avoidance of overfitting and enhancing the robustness.
 
-<h8 style="text-align: justify;">
-
 <figure>
  <img src="fig2.png" alt="a" width="600px" height="600px"/>
   <figcaption>
@@ -60,9 +57,6 @@ When the algorithm is deployed to the fishing net detection and recognition equi
 </figure>
 
 In the mask-guided feature extraction phase, 3140 in-air fishing net images with masks are used for training. 3635 images with one-hot labels are used for training in classification finetune phase, of which 2787 images are negative samples including water backscatter, background, or other non-fishing-net objects such as aquatic plants, 848 images are positive samples of gated underwater fishing net images. The 2787 images negative samples are also used as noise term of synthetic gated fishing net images for the training process of mask-guided feature extraction phase. 909 images with labels are used as test dataset, including 208 positive samples and 701 negative samples. Part of the images and masks are shown in Fig. 2. 20 epochs are trained in mask-guided feature extraction phase while 100 epochs are trained in the classification finetune phase.
-
-
-<h8 style="text-align: justify;">
 
 <figure>
  <img src="fig3.png" alt="a" width="600px" height="600px"/>
@@ -78,8 +72,6 @@ For comparison, three training configurations are used as follows:
 
 The results of image classification accuracy on training and test dataset during the training process of the three configurations above are shown in Fig. 3. It is shown that for each configuration, the training accuracy grows and reaches approximately 100% during the training process. However, the test accuracy reaches approximately 95% and then fluctuates around 92% in FixWC (Fig. 3(a)) or FinWC (Fig. 3(b)). As a comparison, for RIWC which simply trains the network in classification finetune phase from scratch (Fig. 3(c)), the test accuracy can only reach 84% though the training accuracy reaches 100%. The maximum ACCs of three configurations are 95.16%, 95.49%, and 84.27% respectively. The highest ACC reaches 95.49% in the FinWC. The training process shows that the mask-guided feature extraction phase in the proposed algorithm can avoid overfitting by higher-level image processing tasks such as image segmentation, with synthetic dataset. For fishing net detection and recognition task, the overfitting problem is crucial since actually captured images usually contain more complex scenes and under complex conditions with noise.
 
-<h8 style="text-align: justify;">
-
 <figure>
  <img src="fig4.png" alt="a" width="600px" height="600px"/>
   <figcaption>
@@ -88,8 +80,6 @@ The results of image classification accuracy on training and test dataset during
 </figure>
 
 Fig. 4 shows the ROC curve of the algorithms under the three training configurations above. The AUC is 0.9270 for the FixWC, 0.9526 for the FinWC, while 0.7420 for the RIWC. The FinWC has the best comprehensive performance. The ROC curves and AUC shows that the mask-guided feature extraction phase in the proposed algorithm can enhance the performance by increasing the TPR while reducing the FPR. In the classification finetune phase, finetuning inherited weights of encoder part with a small learning rate can obtain a better classification performance than leaving them fixed after the mask-guided feature extraction phase.
-
-<h8 style="text-align: justify;">
 
 <figure>
  <img src="fig5.png" alt="a" width="600px" height="600px"/>
@@ -105,3 +95,5 @@ The network attention is not the only reason why the mask-guided feature extract
 ____________________________________________
 References:  
 1. 	R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh, and D. Batra, "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization," in 2017 IEEE International Conference on Computer Vision (ICCV) (2017), pp. 618–626.
+
+</h8>
