@@ -30,7 +30,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-date: 2025-07-05T17:45:00Z
+date: 2024-01-01T17:45:00Z
 url_slides: ""
 publishDate: 2024-01-01T00:00:00Z
 url_poster: ""
