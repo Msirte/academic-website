@@ -18,7 +18,7 @@ url_source: ""
 url_video: ""
 title: Monte-Carlo simulation for range intensity profile of underwater range gated imaging
 subtitle: ""
-doi: https://doi.org/10.1117/12.2626771
+doi: 10.1117/12.2626771
 featured: true
 tags: []
 projects:

@@ -23,7 +23,7 @@ subtitle: ""
 featured: false
 tags: []
 projects:
-  - Underwater Low-resistance optical fairing
+  - FAIRING
 image:
   caption: ""
   focal_point: ""

@@ -25,7 +25,7 @@ url_source: ""
 url_video: ""
 title: Underwater light ranging and imaging for macro marine life in-situ observation and measurement
 subtitle: ""
-doi: https://doi.org/10.3788/IRLA20211039
+doi: 10.3788/IRLA20211039
 featured: false
 tags: []
 projects:

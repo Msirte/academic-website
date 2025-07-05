@@ -24,7 +24,7 @@ subtitle: ""
 featured: false
 tags: []
 projects:
-  - Smart underwater vector-inspired optical vision guiding method
+  - VIOVG
 image:
   caption: ""
   focal_point: ""

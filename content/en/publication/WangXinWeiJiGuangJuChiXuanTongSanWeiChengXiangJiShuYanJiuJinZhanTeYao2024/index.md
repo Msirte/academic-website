@@ -22,7 +22,7 @@ url_video: ""
 title: Advances of laser range-gated three-dimensional imaging (invited)
 subtitle: ""
 doi: 10.3788/IRLA20240122
-featured: true
+featured: false
 tags: []
 # projects:
 #   - FISHNET

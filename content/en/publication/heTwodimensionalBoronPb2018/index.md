@@ -25,7 +25,7 @@ url_source: ""
 url_video: ""
 title: Two-dimensional boron on Pb (1 1 0) surface
 subtitle: ""
-doi: https://doi.org/10.1016/j.flatc.2017.07.003
+doi: 10.1016/j.flatc.2017.07.003
 featured: false
 tags: []
 projects:

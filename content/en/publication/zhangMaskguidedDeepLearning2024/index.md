@@ -23,7 +23,7 @@ url_source: ""
 url_video: ""
 title: Mask-guided deep learning fishing net detection and recognition based on underwater range gated laser imaging
 subtitle: ""
-doi: 
+doi: 10.1016/j.optlastec.2023.110402
 featured: true
 tags: []
 projects:

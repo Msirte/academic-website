@@ -22,7 +22,7 @@ url_source: ""
 url_video: ""
 title: Smart vector-inspired optical vision guiding method for autonomous underwater vehicle docking and formation
 subtitle: ""
-doi: https://doi.org/10.1364/OL.456544
+doi: 10.1364/OL.456544
 featured: true
 tags: []
 projects:

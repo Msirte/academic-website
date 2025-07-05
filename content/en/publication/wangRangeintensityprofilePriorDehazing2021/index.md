@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 title: Range-intensity-profile prior dehazing method for underwater range-gated imaging
 subtitle: ""
-doi: https://doi.org/10.1364/OE.417131
+doi: 10.1364/OE.417131
 featured: false
 tags: []
 projects:
