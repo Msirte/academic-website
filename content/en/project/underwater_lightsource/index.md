@@ -30,7 +30,7 @@ url_video: ''
 # slides: example
 ---
 <h8 style="text-align: justify;">
-This is an ongoing project. This page is just for showing the preliminary results and will be updated in the future.
+This is an ongoing project. This page is just for showing the preliminary results and will be updated in the future.  
 
 Using the Monte Carlo method, we simulate the light intensity distribution of an underwater light source. Based on an approximation of the multiple scattering model, each step in the underwater light propagation process is treated as a random sampling event, and the spatial energy distribution is computed throughout the propagation. The final underwater light source image is obtained by calculating the statistical expectation. The simulation focuses on three key components: the light source, the transmission medium, and the detector.
 
