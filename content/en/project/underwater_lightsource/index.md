@@ -50,7 +50,7 @@ Fig. 2 shows underwater images of four laser beams intersecting to form two cros
 <figure>
  <img src="fig2.gif" alt="a" width="600px" height="600px"/>
   <figcaption>
-      <h10>Fig. 2. Image enhancement results on benchmark dataset (with references baseline).</h10>
+      <h10>Fig. 2. Underwater images of four laser beams intersecting to form two cross patterns, captured from different angles and under various water conditions.</h10>
   </figcaption>
 </figure>
 
