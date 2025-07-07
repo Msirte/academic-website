@@ -3,7 +3,7 @@ title: Image-grade LiDAR Point Cloud Processing for Vegetation Monitoring
 summary: This work focuses on processing vegetation point cloud data collected by image-grade LiDAR using image processing techniques. By leveraging depth priors from natural images, the method enables denoising and tail artifact removal in dense point clouds, thereby improving the quality and reliability of vegetation structure analysis.
 tags:
   - Image Processing
-date: '2024-03-01T00:00:00Z'
+date: '2025-05-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

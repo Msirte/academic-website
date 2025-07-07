@@ -3,7 +3,7 @@ title: Range Resolution Analysis of Gated Range-Intensity-Correlated 3D Imaging
 summary: The range resolution of a laser-gated 3D imaging system based on range-intensity correlation is analyzed using stochastic methods, considering time jitter, quantum efficiency, optical parameters, and related system factors.
 tags:
   - Optics
-date: '2024-03-01T00:00:00Z'
+date: '2024-12-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
