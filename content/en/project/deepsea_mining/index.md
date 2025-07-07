@@ -3,7 +3,8 @@ title: Design and Implementation of Optical 2D and 3D Image Processing Algorithm
 summary: Developing advanced underwater optical image processing algorithms, including 3D reconstruction algorithms for gated laser camera, stereo vision reconstruction algorithms incorporating water optical properties, and multi-channel line-scan laser 3D reconstruction techniques.
 tags:
   - Optics
-date: '2024-03-01T00:00:00Z'
+  - Image Processing
+date: '2025-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
