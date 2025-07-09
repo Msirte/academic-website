@@ -1,12 +1,13 @@
 ---
-title: 张岳（中文页面更新不及时，请前往英文页面查看最新状态）
-role: 博士在读
-bio: 研究方向：成像，图像处理和机器视觉
+title: 张岳
+role: 博士后/助理研究员
+bio: 研究方向：三维成像，计算成像，水下成像，图像处理和机器视觉
 interests:
   - 成像
   - 电子
   - AI
   - 自行车
+  - 音乐剧
 social:
 #   - icon: envelope
 #     icon_pack: fas
@@ -25,9 +26,9 @@ organizations:
     url: "http://www.semi.ac.cn/"
 education:
   courses:
-  - course: 电子科学与技术 博士在读
+  - course: 电子科学与技术 博士
     institution: 中国科学院半导体研究所，中国科学院大学
-    year: 2023（预计）
+    year: 2023
   - course: 计算机应用技术 辅修
     institution: 中国科学院大学
     year: 2019
@@ -38,6 +39,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-张岳，中国科学院半导体研究所光电系统实验室，电子科学与技术专业在读博士，研究方向为三维成像、水下成像及其算法增强。
+（中文页面更新不及时，请前往英文页面查看最新状态）
+张岳，中国科学院半导体研究所光电系统实验室，电子科学与技术专业，研究方向为三维成像、水下成像及其算法增强。
 
-{{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/张岳_23届博士_中国科学院大学.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载 {{< staticref "uploads/张岳_简历.pdf" "newtab" >}}简历{{< /staticref >}}.
